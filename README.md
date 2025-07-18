@@ -1,4 +1,4 @@
-flask
+211dfb860b7356256cd3ec503f9db7fa328c420aflask
 openai
 python-dotenvOPENAI_API_KEY=sk-tu_clave_aquípip install -r requirements.txt
 python vagre_gpt_app.pyhttps://github.com/lalo420777/Vagre-gpt/releases/tag/untagged-1c856d4c516a8607dd69a8b9b61aa73f753c8a50ac0af92eeb5cb81754f6b3ce31be7895ddf795943e94275a37b9a82e12b1pip install flask openai
