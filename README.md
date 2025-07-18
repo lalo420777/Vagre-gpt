@@ -1,2 +1,3 @@
 # Vagre-gpt
 Inteligencia artificial 
+35bd201000dd294df56a63f79350eddd429c06d6
